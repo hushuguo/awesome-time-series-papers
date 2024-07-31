@@ -37,8 +37,8 @@
    CODE:https://github.com/AI4CTS/E2Usd
 10. #### Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective.
 
-   Author:Zexin Wang, Changhua Pei, Minghua Ma, Xin Wang, Zhihan Li, Dan Pei, Saravan Rajmohan, Dongmei Zhang, Qingwei Lin, Haiming Zhang, Jianhui Li, Gaogang Xie
+	Author:Zexin Wang, Changhua Pei, Minghua Ma, Xin Wang, Zhihan Li, Dan Pei, Saravan Rajmohan, Dongmei Zhang, Qingwei Lin, Haiming Zhang, Jianhui Li, Gaogang Xie
 
-	 Paper:https://dl.acm.org/doi/10.1145/3589334.3645710
+	Paper:https://dl.acm.org/doi/10.1145/3589334.3645710
 
- 	 CODE:https://github.com/CSTCloudOps/FCVAE
+	CODE:https://github.com/CSTCloudOps/FCVAE
