@@ -1,4 +1,4 @@
-# awesome-time-series-paper
+# awesome-time-series-papers
 ## WWW 2024
 1. #### UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting.
 	
