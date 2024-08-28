@@ -16,6 +16,34 @@
 | [Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective](https://arxiv.org/pdf/2402.02820) | [Code](https://github.com/CSTCloudOps/FCVAE)| WWW 2024 |
 | [UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/liuxu77/UniTime) | WWW2024 |
 | [Dynamic Multi-Network Mining of Tensor Time Series](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/KoheiObata/DMM) | WWW2024 |
+| [CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting](https://openreview.net/forum?id=MJksrOhurE) | [Code](https://github.com/wxie9/card) | ICLR 2024 |
+| [Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://openreview.net/forum?id=lJkOCMP2aW) | [Code](https://github.com/decisionintelligence/pathformer) | ICLR 2024 |
+| [GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings](https://openreview.net/forum?id=c56TWtYp0W) | None | ICLR 2024 |
+| [Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting](https://openreview.net/forum?id=qae04YACHs) | None | ICLR 2024 |
+| [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://openreview.net/forum?id=JePfAI8fah) | None | ICLR 2024 |
+| [Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting](#) | None | AAAI 2024 |
+| [Latent Diffusion Transformer for Probabilistic Time Series Forecasting](#) | None | AAAI 2024 |
+| [BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis](https://neurips.cc/virtual/2023/poster/69976) | None | NeurIPS 2023 |
+| [ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling](https://neurips.cc/virtual/2023/poster/71304) | None | NeurIPS 2023 |
+| [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://openreview.net/forum?id=Jbdc0vTOcol) | [Code](https://github.com/yuqinie98/PatchTST) | ICLR 2023 |
+| [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting](https://openreview.net/forum?id=vSVLM2j9eie) | None | ICLR 2023 |
+| [Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://openreview.net/forum?id=sCrnllCtjoE) | None | ICLR 2023 |
+| [Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://arxiv.org/abs/2205.14415) | None | NeurIPS 2022 |
+| [Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting](https://dl.acm.org/doi/10.1145/3534678.3539234) | None | KDD 2022 |
+| [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/abs/2201.12740) | [Code](https://github.com/MAZiqing/FEDformer) | ICML 2022 |
+| [TACTiS: Transformer-Attentional Copulas for Time Series](https://arxiv.org/abs/2202.03528) | None | ICML 2022 |
+| [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/forum?id=0EXmFzUn5I) | [Code](https://github.com/alipay/Pyraformer) | ICLR 2022 |
+| [Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html) | [Code](https://github.com/thuml/autoformer) | NeurIPS 2021 |
+| [Informer: Beyond efficient transformer for long sequence time-series forecasting](https://www.aaai.org/AAAI21Papers/AAAI-7346.ZhouHaoyi.pdf) | [Code](https://github.com/zhouhaoyi/Informer2020) | AAAI 2021 |
+| [Temporal fusion transformers for interpretable multi-horizon time series forecasting](https://www.sciencedirect.com/science/article/pii/S0169207021000637) | [Code](https://github.com/mattsherar/Temporal_Fusion_Transform) | International Journal of Forecasting 2021 |
+| [Probabilistic Transformer For Time Series Analysis](https://proceedings.neurips.cc/paper/2021/hash/c68bd9055776bf38d8fc43c0ed283678-Abstract.html) | None | NeurIPS 2021 |
+| [Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case](https://arxiv.org/abs/2001.08317) | None | arXiv 2020 |
+| [Adversarial sparse transformer for time series forecasting](https://proceedings.neurips.cc/paper/2020/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html) | [Code](https://github.com/hihihihiwsf/AST) | NeurIPS 2020 |
+| [Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting](https://proceedings.neurips.cc/paper/2019/hash/6775a0635c302542da2c32aa19d86be0-Abstract.html) | [Code](https://github.com/mlpotter/Transformer_Time_Series) | NeurIPS 2019 |
+| [SSDNet: State Space Decomposition Neural Network for Time Series Forecasting](https://arxiv.org/abs/2112.10251) | None | ICDM 2021 |
+| [From Known to Unknown: Knowledge-guided Transformer for Time-Series Sales Forecasting in Alibaba](https://arxiv.org/abs/2109.08381) | None | arXiv 2021 |
+| [TCCT: Tightly-coupled convolutional transformer on time series forecasting](https://www.sciencedirect.com/science/article/pii/S0925231222000571) | None | Neurocomputing 2022 |
+| [Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting](https://arxiv.org/abs/2204.13767) | None | IJCAI 2022 |
 
 ### 2023
 
