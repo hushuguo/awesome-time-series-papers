@@ -1,20 +1,13 @@
 # awesome-time-series-papers
-## WWW 2024
-1. #### UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting.
-	
-	Author:Xu Liu, Junfeng Hu, Yuan Li, Shizhe Diao, Yuxuan Liang, Bryan Hooi, Roger Zimmermann
-	
- 	Paper:https://arxiv.org/abs/2310.09751
-	
-	CODE:https://github.com/liuxu77/UniTime
 
-3. #### Dynamic Multi-Network Mining of Tensor Time Series.
+## Time Series Forcasting:
 
-   Author: Kohei Obata, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai
+| Method Name| Code | Source |
+| ------- | ------ | ------|
+| [UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/liuxu77/UniTime) | WWW2024 |
+| [Dynamic Multi-Network Mining of Tensor Time Series](https://dl.acm.org/doi/10.1145/3589334.3645461) | [Paper](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/KoheiObata/DMM) | WWW2024 |
 
-	 Paper:https://dl.acm.org/doi/10.1145/3589334.3645461
 
-	 CODE:https://github.com/KoheiObata/DMM
 
 5. #### LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection.
 
