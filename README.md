@@ -13,9 +13,10 @@
 | [LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | NONE | WWW 2024 |
 | [Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | [CODE](https://dl.acm.org/doi/10.1145/3589334.3645556) | WWW 2024 |
 | [E2Usd: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series](https://arxiv.org/pdf/2402.14041) | [CODE](https://github.com/AI4CTS/E2Usd)| WWW 2024 |
-| [Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective](https://dl.acm.org/doi/10.1145/3589334.3645710) | [CODE](https://github.com/CSTCloudOps/FCVAE)| WWW 2024 |
+| [Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective](https://arxiv.org/pdf/2402.02820) | [CODE](https://github.com/CSTCloudOps/FCVAE)| WWW 2024 |
 | [UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/liuxu77/UniTime) | WWW2024 |
-| [Dynamic Multi-Network Mining of Tensor Time Series](https://dl.acm.org/doi/10.1145/3589334.3645461) | [Paper](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/KoheiObata/DMM) | WWW2024 |
+| [Dynamic Multi-Network Mining of Tensor Time Series](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/KoheiObata/DMM) | WWW2024 |
+
 ### 2023
 
 | Method Name | Code | Source |
