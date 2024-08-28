@@ -10,10 +10,10 @@
 | [UniTS: Building a Unified Time Series Model](https://arxiv.org/pdf/2403.00131.pdf) | [Code](https://github.com/mims-harvard/units) | Arxiv |
 | [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/pdf/2403.09898.pdf) | [Code](https://github.com/Atik-Ahamed/TimeMachine) | Arxiv |
 | [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419) | [Code](https://github.com/ztxtech/Time-Evidence-Fusion-Network) | Arxiv |
-| [LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | NONE | WWW 2024 |
-| [Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | [CODE](https://dl.acm.org/doi/10.1145/3589334.3645556) | WWW 2024 |
-| [E2Usd: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series](https://arxiv.org/pdf/2402.14041) | [CODE](https://github.com/AI4CTS/E2Usd)| WWW 2024 |
-| [Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective](https://arxiv.org/pdf/2402.02820) | [CODE](https://github.com/CSTCloudOps/FCVAE)| WWW 2024 |
+| [LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | None | WWW 2024 |
+| [Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | [Code](https://dl.acm.org/doi/10.1145/3589334.3645556) | WWW 2024 |
+| [E2Usd: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series](https://arxiv.org/pdf/2402.14041) | [Code](https://github.com/AI4CTS/E2Usd)| WWW 2024 |
+| [Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective](https://arxiv.org/pdf/2402.02820) | [Code](https://github.com/CSTCloudOps/FCVAE)| WWW 2024 |
 | [UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/liuxu77/UniTime) | WWW2024 |
 | [Dynamic Multi-Network Mining of Tensor Time Series](https://arxiv.org/abs/2310.09751) | [Code](https://github.com/KoheiObata/DMM) | WWW2024 |
 
