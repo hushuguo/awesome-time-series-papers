@@ -83,16 +83,4 @@
 | [FOST from Microsoft](https://github.com/microsoft/FOST) | [GitHub](https://github.com/microsoft/FOST) | Forecasting toolbox |
 | [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting) | [GitHub](https://github.com/jdb78/pytorch-forecasting) | Time series forecasting with PyTorch |
 | [A collection of time series prediction methods](https://github.com/LongxingTan/Time-series-prediction) | [GitHub](https://github.com/LongxingTan/Time-series-prediction) | Collection of methods |
-| [Flow Forecast: A deep learning framework for time series forecasting](https://github.com/AIStream-Peelout/flow-forecast) | [GitHub](https://github.com/AIStream-P
-
-eelout/flow-forecast) | Deep learning framework |
-
-
-
-
-## Time Series Forcasting:
-
-| Method Name| Code | Source |
-| ------- | ------ | ------|
-
-
+| [Flow Forecast: A deep learning framework for time series forecasting](https://github.com/AIStream-Peelout/flow-forecast) | [GitHub](https://github.com/AIStream-Peelout/flow-forecast) | Deep learning framework |
