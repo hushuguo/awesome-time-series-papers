@@ -66,8 +66,18 @@
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | None | WWW 2024 |
-| [Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | [Code](https://dl.acm.org/doi/10.1145/3589334.3645556) | WWW2024 |
+| [Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | [Code](https://dl.acm.org/doi/10.1145/3589334.3645556) | WWW 2024 |
 | [Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective](https://arxiv.org/pdf/2402.02820) | [Code](https://github.com/CSTCloudOps/FCVAE)| WWW 2024 |
+| [MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection](https://openreview.net/forum?id=UFW67uduJd) | None | NeurIPS 2023 |
+| [CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences](https://dl.acm.org/doi/abs/10.1145/3534678.3539155) | [Code](https://github.com/mmichaelzhang/CAT) | KDD 2022 |
+| [DCT-GAN: Dilated Convolutional Transformer-based GAN for Time Series Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/9626552) | None | TKDE 2022 |
+| [Concept Drift Adaptation for Time Series Anomaly Detection via Transformer](https://link.springer.com/article/10.1007/s11063-022-11015-0) | None | Neural Processing Letters 2022 |
+| [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642) | [Code](https://github.com/thuml/Anomaly-Transformer) | ICLR 2022 |
+| [TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](https://arxiv.org/abs/2201.07284) | [Code](https://github.com/imperial-qore/tranad) | VLDB 2022 |
+| [Learning graph structures with transformer for multivariate time series anomaly detection in IoT](https://arxiv.org/abs/2104.03466) | [Code](https://github.com/ZEKAICHEN/GTA) | IEEE Internet of Things Journal 2021 |
+| [Spacecraft Anomaly Detection via Transformer Reconstruction Error](http://www.utias.utoronto.ca/wp-content/uploads/2019/07/88-Spacecraft-anomaly-detection-via-transformer-reconstruction-error.pdf) | None | ICASSE 2019 |
+| [Unsupervised Anomaly Detection in Multivariate Time Series through Transformer-based Variational Autoencoder](https://ieeexplore.ieee.org/abstract/document/9601669) | None | CCDC 2021 |
+| [Variational Transformer-based anomaly detection approach for multivariate time series](https://www.sciencedirect.com/science/article/abs/pii/S0263224122000914) | None | Measurement 2022 |
 
 ## Theory Resource
 
