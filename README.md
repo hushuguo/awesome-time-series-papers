@@ -1,6 +1,14 @@
 # awesome-time-series-papers
 
 
+[Time Series Forecasting](#time-series-forecasting) 
+
+[Time Series Anomaly Detection](#time-series-anomaly-detection)
+
+[Theory Resource](#theory-resource)
+
+[Code Resource](#code-resource)
+
 ## Time Series Forecasting
 
 ### 2024
