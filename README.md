@@ -1,13 +1,18 @@
 # awesome-time-series-papers
 
 ## Cateloge
-  [Time Series Forecasting](#time-series-forecasting) 
+<div align="center">
+
+  [Time Series Forecasting](#time-series-forecasting)  
   
   [Time Series Anomaly Detection](#time-series-anomaly-detection)
   
   [Theory Resource](#theory-resource)
   
   [Code Resource](#code-resource)
+
+</div>
+
 
 
 ## Time Series Forecasting
