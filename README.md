@@ -1,13 +1,14 @@
 # awesome-time-series-papers
 
+## Cateloge
+  [Time Series Forecasting](#time-series-forecasting) 
+  
+  [Time Series Anomaly Detection](#time-series-anomaly-detection)
+  
+  [Theory Resource](#theory-resource)
+  
+  [Code Resource](#code-resource)
 
-[Time Series Forecasting](#time-series-forecasting) 
-
-[Time Series Anomaly Detection](#time-series-anomaly-detection)
-
-[Theory Resource](#theory-resource)
-
-[Code Resource](#code-resource)
 
 ## Time Series Forecasting
 
