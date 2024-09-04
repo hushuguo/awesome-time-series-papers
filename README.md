@@ -21,6 +21,7 @@
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting](https://arxiv.org/abs/2405.10800) | [Code](https://github.com/XDZhelheim/HimNet) | KDD 2024|
 | [STEMO: Early Spatio-temporal Forecasting with Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2406.04035) | [Code](https://github.com/coco0106/MO-STEP) | KDD 2024|
 | [Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks](https://arxiv.org/abs/2308.16818) | None | KDD 2024|
 | [UniST: A Prompt-empowered Universal Model for Urban Spatio-temporal Prediction](https://arxiv.org/abs/2402.11838) | [Code](https://github.com/tsinghua-fib-lab/UniST) | KDD 2024|
@@ -82,6 +83,7 @@
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://dl.acm.org/doi/10.1145/3637528.3671680) | None | KDD 2024|
 | [LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | None | WWW 2024 |
 | [Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | [Code](https://dl.acm.org/doi/10.1145/3589334.3645556) | WWW 2024 |
 | [Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective](https://arxiv.org/pdf/2402.02820) | [Code](https://github.com/CSTCloudOps/FCVAE)| WWW 2024 |
