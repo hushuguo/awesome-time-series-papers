@@ -21,6 +21,9 @@
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [STEMO: Early Spatio-temporal Forecasting with Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2406.04035) | [Code](https://github.com/coco0106/MO-STEP) | KDD 2024|
+| [Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks](https://arxiv.org/abs/2308.16818) | None | KDD 2024|
+| [UniST: A Prompt-empowered Universal Model for Urban Spatio-temporal Prediction](https://arxiv.org/abs/2402.11838) | [Code](https://github.com/tsinghua-fib-lab/UniST) | KDD 2024|
 | [UniTS: Building a Unified Time Series Model](https://arxiv.org/pdf/2403.00131.pdf) | [Code](https://github.com/mims-harvard/units) | Arxiv |
 | [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/pdf/2403.09898.pdf) | [Code](https://github.com/Atik-Ahamed/TimeMachine) | ECAI 2024 |
 | [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419) | [Code](https://github.com/ztxtech/Time-Evidence-Fusion-Network) | Arxiv |
