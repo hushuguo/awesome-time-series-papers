@@ -37,6 +37,7 @@
 | [GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings](https://openreview.net/forum?id=c56TWtYp0W) | None | ICLR 2024 |
 | [Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting](https://openreview.net/forum?id=qae04YACHs) | None | ICLR 2024 |
 | [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://openreview.net/forum?id=JePfAI8fah) | [Code](https://github.com/thuml/iTransformer?utm_source=catalyzex.com) | ICLR 2024 |
+| [TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting](https://openreview.net/pdf?id=7oLshfEIC2) | [Code](https://github.com/kwuking/TimeMixer) | ICLR 2024 |
 | [Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting](#) | None | AAAI 2024 |
 | [Latent Diffusion Transformer for Probabilistic Time Series Forecasting](#) | None | AAAI 2024 |
 
