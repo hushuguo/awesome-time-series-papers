@@ -21,8 +21,7 @@
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
-| [SAMformer: Unlocking the Potential of Transformers in Time Series
-Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention](https://arxiv.org/pdf/2402.10198) | [Code]([https://github.com/XDZhelheim/HimNet](https://github.com/romilbert/samformer)) | ICML 2024|
+| [SAMformer: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention](https://arxiv.org/pdf/2402.10198) | [Code]([https://github.com/XDZhelheim/HimNet](https://github.com/romilbert/samformer)) | ICML 2024|
 | [Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting](https://arxiv.org/abs/2405.10800) | [Code](https://github.com/XDZhelheim/HimNet) | KDD 2024|
 | [STEMO: Early Spatio-temporal Forecasting with Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2406.04035) | [Code](https://github.com/coco0106/MO-STEP) | KDD 2024|
 | [Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks](https://arxiv.org/abs/2308.16818) | None | KDD 2024|
