@@ -9,6 +9,8 @@
 
   [Time Series Early Classification](#time-series-early-classification)
 
+  [Irregular Time Series Learning](#irregular-time-series-learning)
+
   [Time Series Representation Learning](#time-series-representation-learning)
   
   [Theory Resource](#theory-resource)
@@ -145,9 +147,16 @@
 | [TEASER: Early and Accurate Time Series Classification](https://arxiv.org/abs/1908.03405) | [Code](https://github.com/patrickzib/SFA) | DMKD 2020|
 | [An Effective Confidence-Based Early Classification of Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8765556) | [Code](https://github.com/junweilvhfut/ECEC) | Access 2019|
 
+## Irregular Time Series Learning
+| Method Name | Code | Source |
+| ------- | ------ | ---------- |
+| [EMIT - Event Based Masked Auto Encoding for Irregular Time Series](https://arxiv.org/abs/2409.16554) | [Code](https://github.com/hrishi-ds/EMIT) | ICDM 2024 |
+
+
 ## Time Series Representation Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Improving Time Series Encoding with Noise-Aware Self-Supervised Learning and an Efficient Encoder](https://arxiv.org/abs/2306.06579) | [Code](https://github.com/anhduy0911/CoInception) | ICDM 2024|
 | [A Shapelet-based Framework for Unsupervised Multivariate Time Series Representation Learning](https://www.vldb.org/pvldb/vol17/p386-wang.pdf) | [Code](https://github.com/real2fish/CSL) | VLDB 2024|
 
 ## Theory Resource
