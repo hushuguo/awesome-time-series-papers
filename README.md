@@ -14,7 +14,7 @@
   [Time Series Representation Learning](#time-series-representation-learning)
   
   [Time Series Classification](#time-series-classification)
-  
+
   [Theory Resource](#theory-resource)
   
   [Code Resource](#code-resource)
@@ -114,7 +114,7 @@
 | Method Name | Code | Source |
 | ------- | ------ | ------ |
 | [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/download/6032/5888) | [Code](https://github.com/huawei-noah/BHT-ARIMA) | AAAI 2020 |
-| [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf) | Code not yet available | NeurIPS 2020 |
+| [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf) | None | NeurIPS 2020 |
 | [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://arxiv.org/pdf/2010.13924) | [Code](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark) | NeurIPS 2020 |
 | [Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline](https://arxiv.org/abs/2002.10061) | [Code](https://github.com/Wensi-Tang/OS-CNN/) | Classification |
 | [Active Model Selection for Positive Unlabeled Time Series Classification](https://www.researchgate.net/publication/341691181_Active_Model_Selection_for_Positive_Unlabeled_Time_Series_Classification/links/5ed4ef09458515294527ad45/Active-Model-Selection-for-Positive-Unlabeled-Time-Series-Classification.pdf) | [Code](https://github.com/sliang11/Active-Model-Selection-for-PUTSC) | Arxiv |
