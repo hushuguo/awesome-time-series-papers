@@ -1,6 +1,21 @@
 # awesome-time-series-papers
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/hushuguo/awesome-time-series-papers
+)
+
 
 This repository is a comprehensive collection of recent research papers and resources in the field of time series analysis, spanning a wide range of topics including forecasting, anomaly detection, early classification, irregular time series learning, representation learning, and more.
+
+## Some Additional Information
+
+🚩 2025/1/23: **Add AAAI 2025 Papers**
+
+🚩 2024/12/23: **Add ICDM 2025 Papers**
+
+🚩 2024/12/8: **Add VLDB 2024 Papers**
+
+🚩 2024/10/30: **Add NeurIPS 2024 Papers**
+
+🚩 2024/9/4: **Add KDD 2024 Papers**
 
 ## Cateloge
 <div align="center">
