@@ -15,6 +15,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 🚩 2024/10/30: **Add NeurIPS 2024 Papers**
 
+🚩 2024/10/11: **Add ICML 2024 Papers**
+
 🚩 2024/9/4: **Add KDD 2024 Papers**
 
 ## Cateloge
