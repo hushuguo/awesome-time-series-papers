@@ -50,8 +50,11 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting](https://openreview.net/pdf?id=wTLc79YNbh) | [Code](https://github.com/huangst21/TimeKAN) | ICLR 2025 |
+| [A Simple Baseline for Multivariate Time Series Forecasting](https://openreview.net/pdf?id=oANkBaVci5) | [Code](https://openreview.net/forum?id=oANkBaVci5) | ICLR 2025 |
+| [Fast and Slow Streams for Online Time Series Forecasting Without Information Leakage](https://openreview.net/forum?id=I0n3EyogMi) | None | ICLR 2025 |
 | [Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery](https://openreview.net/forum?id=k38Th3x4d9)  | None  | ICLR 2025 |
-| [Label Correlation Biases Direct Time Series Forecast]()  | None  | ICLR 2025 |
+| [Label Correlation Biases Direct Time Series Forecast](https://openreview.net/pdf/0fccc26b8bb98e9da2d0932820aa42c47e8ab9e0.pdf)  | None  | ICLR 2025 |
 | [TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis](https://openreview.net/forum?id=1CLzLXSFNn)  | None  | ICLR 2025 |
 | [CSformer: Combining Channel Independence and Mixing for Robust Multivariate Time Series Forecasting](https://arxiv.org/abs/2312.06220)  | None  | AAAI 2025 |
 | [CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning](https://arxiv.org/pdf/2403.07300) | [Code](https://github.com/Hank0626/CALF) | AAAI 2025 |
@@ -160,6 +163,8 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching](https://openreview.net/pdf?id=m08aK3xxdJ) | [Code](https://anonymous.4open.science/r/CATCH-E535/README.md) | ICLR 2025 |
+| [Multi-Resolution Decomposable Diffusion Model for Non-Stationary Time Series Anomaly Detection](https://openreview.net/pdf?id=eWocmTQn7H) | [Code](https://openreview.net/forum?id=eWocmTQn7H) | ICLR 2025 |
 | [ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection](https://www.vldb.org/pvldb/vol17/p359-zhang.pdf) | [Code](https://github.com/17000cyh/IMDiffusion) | VLDB 2024|
 | [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) | [Code](https://github.com/zaqthss/experiment-tsad) | VLDB 2024|
 | [AutoTSAD: Unsupervised Holistic Anomaly Detection for Time Series Data](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) | [Code](https://github.com/zaqthss/experiment-tsad) | VLDB 2024|
@@ -199,6 +204,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Representation Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Shedding Light on Time Series Classification using Interpretability Gated Networks](https://openreview.net/pdf?id=n34taxF0TC) | None | ICLR 2025 |
 | [requency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning](https://arxiv.org/pdf/2412.20790) | [Code](https://github.com/USTBInnovationPark/Frequency-masked-Embedding-Inference) | AAAI 2025|
 | [Cross-Domain Pre-training with Language Models for Transferable Time Series Representations](https://arxiv.org/abs/2403.12372) | [Code](https://github.com/anhduy0911/CoInception) | WSDM 2024|
 | [Improving Time Series Encoding with Noise-Aware Self-Supervised Learning and an Efficient Encoder](https://arxiv.org/abs/2306.06579) | [Code](https://github.com/anhduy0911/CoInception) | ICDM 2024|
