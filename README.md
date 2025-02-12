@@ -125,7 +125,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | -------- |
-| [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://openreview.net/pdf?id=zt53IDUR1U) | [Code](https://github.com/wanghq21/MICN) | ICLR 2023 Oral |
+| [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://openreview.net/pdf?id=zt53IDUR1U) | [Code](https://github.com/wanghq21/MICN) | ICLR 2023 |
 | [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting](https://openreview.net/pdf?id=vSVLM2j9eie) | [Code](https://github.com/Thinklab-SJTU/Crossformer) | ICLR 2023 |
 | [Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://openreview.net/pdf?id=sCrnllCtjoE) | [Code](https://github.com/BorealisAI/scaleformer) | ICLR 2023 |
 | [SAITS: Self-Attention-based Imputation for Time Series](https://arxiv.org/abs/2202.08516) | [Code](https://github.com/WenjieDu/SAITS/) | Expert Systems with Applications |
@@ -150,7 +150,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting](https://papers.nips.cc/paper/2021/file/bcc0d400288793e8bdcd7c19a8ac0c2b-Paper.pdf) | [Code](https://github.com/user/repo) | NeurIPS 2021 |
 | [Whittle Networks: A Deep Likelihood Model for Time Series](https://www.ml.informatik.tu-darmstadt.de/papers/yu2021icml_wspn.pdf) | [Code](https://github.com/ml-research/WhittleNetworks) | ICML 2021 |
 | [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://arxiv.org/abs/2105.04100) | [Code](https://github.com/Z-GCNETs/Z-GCNETs) | ICML 2021 |
-| [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436) | [Code](https://github.com/zhouhaoyi/Informer2020) | AAAI 2021 Best Paper |
+| [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436) | [Code](https://github.com/zhouhaoyi/Informer2020) | AAAI 2021 |
 
 ### 2020
 
