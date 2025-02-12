@@ -7,6 +7,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2025/2/12: **Add ICLR 2025 Papers**
+
 🚩 2025/1/23: **Add AAAI 2025 Papers**
 
 🚩 2024/12/23: **Add ICDM 2025 Papers**
@@ -48,7 +50,10 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
-| [CSformer: Combining Channel Independence and Mixing for Robust Multivariate Time Series Forecasting](https://arxiv.org/abs/2312.06220) | None | AAAI 2025 |
+| [Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery](https://openreview.net/forum?id=k38Th3x4d9)  | None  | ICLR 2025 |
+| [Label Correlation Biases Direct Time Series Forecast]()  | None  | ICLR 2025 |
+| [TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis](https://openreview.net/forum?id=1CLzLXSFNn)  | None  | ICLR 2025 |
+| [CSformer: Combining Channel Independence and Mixing for Robust Multivariate Time Series Forecasting](https://arxiv.org/abs/2312.06220)  | None  | AAAI 2025 |
 | [CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning](https://arxiv.org/pdf/2403.07300) | [Code](https://github.com/Hank0626/CALF) | AAAI 2025 |
 | [Revisiting Attention for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2407.13806) | [Code](https://github.com/Joeland4/FSatten-SOatten) | AAAI 2025 |
 | [Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation](https://arxiv.org/pdf/2501.04970) | [Code](https://github.com/kimanki/TAFAS) | AAAI 2025 |
@@ -185,6 +190,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Irregular Time Series Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+|[Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series]() | [Code](https://openreview.net/forum?id=8zJRon6k5v) | ICLR 2025 |
 | [Probabilistic Forecasting of Irregularly Sampled Time Series with Missing Values via Conditional Normalizing Flows](https://arxiv.org/abs/2402.06293) | [Code](github.com/yalavarthivk/ProFITi) | AAAI 2025 |
 | [TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis](https://arxiv.org/abs/2412.12886) | None | AAAI 2025 |
 | [EMIT - Event Based Masked Auto Encoding for Irregular Time Series](https://arxiv.org/abs/2409.16554) | [Code](https://github.com/hrishi-ds/EMIT) | ICDM 2024 |
