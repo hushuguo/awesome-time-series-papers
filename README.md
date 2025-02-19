@@ -7,6 +7,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2025/2/12: **Add causal discovery Part**
+
 🚩 2025/2/12: **Add ICLR 2025 Papers**
 
 🚩 2025/1/23: **Add AAAI 2025 Papers**
@@ -34,6 +36,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
   [Time Series Representation Learning](#time-series-representation-learning)
   
+  [Time Series Causal Discovery](#time-series-causal-discovery)
+
   [Time Series Classification](#time-series-classification)
 
   [Theory Resource](#theory-resource)
@@ -50,6 +54,9 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Investigating Pattern Neurons in Urban Time Series Forecasting](https://openreview.net/forum?id=a9vey6B54y) | [Code](https://anonymous.4open.science/r/PN-Train) | ICLR 2025 |
+| [Timer-XL: Long-Context Transformers for Unified Time Series Forecasting](https://openreview.net/forum?id=KMCJXjlDDr) | None | ICLR 2025 |
+| [In-context Time Series Predictor](https://openreview.net/forum?id=dCcY2pyNIO) | None | ICLR 2025 |
 | [TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting](https://openreview.net/pdf?id=wTLc79YNbh) | [Code](https://github.com/huangst21/TimeKAN) | ICLR 2025 |
 | [A Simple Baseline for Multivariate Time Series Forecasting](https://openreview.net/pdf?id=oANkBaVci5) | [Code](https://openreview.net/forum?id=oANkBaVci5) | ICLR 2025 |
 | [Fast and Slow Streams for Online Time Series Forecasting Without Information Leakage](https://openreview.net/forum?id=I0n3EyogMi) | None | ICLR 2025 |
@@ -163,6 +170,8 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Learn hybrid prototypes for multivariate time series anomaly detection](https://openreview.net/forum?id=8TBGdH3t6a) | None | ICLR 2025 |
+| [Can LLMs Understand Time Series Anomalies?](https://openreview.net/forum?id=LGafQ1g2D2) | [Code](https://openreview.net/forum?id=LGafQ1g2D2) | ICLR 2025 |
 | [CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching](https://openreview.net/pdf?id=m08aK3xxdJ) | [Code](https://anonymous.4open.science/r/CATCH-E535/README.md) | ICLR 2025 |
 | [Multi-Resolution Decomposable Diffusion Model for Non-Stationary Time Series Anomaly Detection](https://openreview.net/pdf?id=eWocmTQn7H) | [Code](https://openreview.net/forum?id=eWocmTQn7H) | ICLR 2025 |
 | [ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection](https://www.vldb.org/pvldb/vol17/p359-zhang.pdf) | [Code](https://github.com/17000cyh/IMDiffusion) | VLDB 2024|
@@ -204,16 +213,23 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Representation Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [On the Identification of Temporal Causal Representation with Instantaneous Dependence](https://openreview.net/forum?id=2efNHgYRvM) | [Code](https://openreview.net/forum?id=2efNHgYRvM) | ICLR 2025 |
 | [Shedding Light on Time Series Classification using Interpretability Gated Networks](https://openreview.net/pdf?id=n34taxF0TC) | None | ICLR 2025 |
 | [requency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning](https://arxiv.org/pdf/2412.20790) | [Code](https://github.com/USTBInnovationPark/Frequency-masked-Embedding-Inference) | AAAI 2025|
 | [Cross-Domain Pre-training with Language Models for Transferable Time Series Representations](https://arxiv.org/abs/2403.12372) | [Code](https://github.com/anhduy0911/CoInception) | WSDM 2024|
 | [Improving Time Series Encoding with Noise-Aware Self-Supervised Learning and an Efficient Encoder](https://arxiv.org/abs/2306.06579) | [Code](https://github.com/anhduy0911/CoInception) | ICDM 2024|
 | [A Shapelet-based Framework for Unsupervised Multivariate Time Series Representation Learning](https://www.vldb.org/pvldb/vol17/p386-wang.pdf) | [Code](https://github.com/real2fish/CSL) | VLDB 2024|
 
+## Time Series Causal Discovery
+| Method Name | Code | Source |
+| ------- | ------ | ---------- |
+| [DyCAST: Learning Dynamic Causal Structure from Time Series](https://link.zhihu.com/?target=https%3A//openreview.net/forum%3Fid%3DWjDjem8mWE) | None | ICLR 2025 |
+| [CausalRivers - Scaling up benchmarking of causal discovery for real-world time-series](https://openreview.net/forum?id=wmV4cIbgl6) | [Code](https://openreview.net/forum?id=wmV4cIbgl6) | ICLR 2025 |
 
 ## Time Series Classification
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [PPT: Patch Order Do Matters In Time Series Pretext Task](https://openreview.net/forum?id=7zwIEbSTDy) | None | ICLR 2025 |
 | [Advancing Time Series Classification with Multimodal Language Modeling](https://arxiv.org/abs/2403.12371) | [Code](https://github.com/Mingyue-Cheng/InstructTime) | WSDM 2024|
 
 ## Theory Resource
