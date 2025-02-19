@@ -7,7 +7,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
-🚩 2025/2/12: **Add causal discovery Part**
+🚩 2025/2/19: **Add Causal Discovery Part**
 
 🚩 2025/2/12: **Add ICLR 2025 Papers**
 
