@@ -204,7 +204,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Irregular Time Series Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
-|[Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series]() | [Code](https://openreview.net/forum?id=8zJRon6k5v) | ICLR 2025 |
+| [Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series](https://arxiv.org/abs/2410.05602) | [Code](https://openreview.net/forum?id=8zJRon6k5v) | ICLR 2025 |
 | [Probabilistic Forecasting of Irregularly Sampled Time Series with Missing Values via Conditional Normalizing Flows](https://arxiv.org/abs/2402.06293) | [Code](github.com/yalavarthivk/ProFITi) | AAAI 2025 |
 | [TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis](https://arxiv.org/abs/2412.12886) | None | AAAI 2025 |
 | [EMIT - Event Based Masked Auto Encoding for Irregular Time Series](https://arxiv.org/abs/2409.16554) | [Code](https://github.com/hrishi-ds/EMIT) | ICDM 2024 |
