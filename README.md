@@ -54,6 +54,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Exploiting Language Power for Time Series Forecasting with Exogenous Variables](https://openreview.net/pdf?id=dFapOK8Rhb) | None | WWW 2025 |
 | [Investigating Pattern Neurons in Urban Time Series Forecasting](https://openreview.net/forum?id=a9vey6B54y) | [Code](https://anonymous.4open.science/r/PN-Train) | ICLR 2025 |
 | [Timer-XL: Long-Context Transformers for Unified Time Series Forecasting](https://openreview.net/forum?id=KMCJXjlDDr) | None | ICLR 2025 |
 | [In-context Time Series Predictor](https://openreview.net/forum?id=dCcY2pyNIO) | None | ICLR 2025 |
@@ -213,6 +214,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Representation Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Learning Disentangled Representation for Multi-Modal Time-Series Sensing Signals](https://openreview.net/forum?id=trPIg0ECvv#discussion) | None | WWW 2025 |
 | [On the Identification of Temporal Causal Representation with Instantaneous Dependence](https://openreview.net/forum?id=2efNHgYRvM) | [Code](https://openreview.net/forum?id=2efNHgYRvM) | ICLR 2025 |
 | [Shedding Light on Time Series Classification using Interpretability Gated Networks](https://openreview.net/pdf?id=n34taxF0TC) | None | ICLR 2025 |
 | [requency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning](https://arxiv.org/pdf/2412.20790) | [Code](https://github.com/USTBInnovationPark/Frequency-masked-Embedding-Inference) | AAAI 2025|
@@ -229,6 +231,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Classification
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Revisiting Backdoor Attacks on Time Series Classification in the Frequency Domain](https://openreview.net/pdf?id=SbEFbBhNRd) | None | WWW 2025 |
 | [PPT: Patch Order Do Matters In Time Series Pretext Task](https://openreview.net/forum?id=7zwIEbSTDy) | None | ICLR 2025 |
 | [Advancing Time Series Classification with Multimodal Language Modeling](https://arxiv.org/abs/2403.12371) | [Code](https://github.com/Mingyue-Cheng/InstructTime) | WSDM 2024|
 
