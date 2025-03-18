@@ -85,6 +85,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition](https://arxiv.org/abs/2412.17323) | [Code](https://github.com/stitsyuk/xpatch) | AAAI 2025 |
 | [WPMixer: Efficient Multi-Resolution Mixing for Long-Term Time Series Forecasting](https://arxiv.org/abs/2412.17176) | [Code](https://github.com/Secure-and-Intelligent-Systems-Lab/WPMixer) | AAAI 2025 |
 | [Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine](https://arxiv.org/abs/2412.14435) | [Code](https://github.com/luisroque/bench) | AAAI 2025 |
+| [TimePFN: Effective Multivariate Time Series Forecasting with Synthetic Data](https://openreview.net/forum?id=A9iqHtj3dk) | None | AAAI 2025 |
 | [Multiple Time Series Forecasting with Dynamic Graph Modeling](https://www.vldb.org/pvldb/vol17/p753-zhao.pdf) | [Code](https://github.com/zhkai/MTSF-DG) | VLDB 2024|
 | [TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](https://www.vldb.org/pvldb/vol17/p2363-hu.pdf) | [Code](https://github.com/decisionintelligence/TFB) | VLDB 2024|
 | [Weakly Guided Adaptation for Robust Time Series Forecasting](https://www.vldb.org/pvldb/vol17/p766-cheng.pdf) | [Code](https://github.com/YunyaoCheng/DARF) | VLDB 2024|
