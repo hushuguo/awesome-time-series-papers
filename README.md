@@ -66,7 +66,6 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery](https://openreview.net/forum?id=k38Th3x4d9)  | None  | ICLR 2025 |
 | [Label Correlation Biases Direct Time Series Forecast](https://openreview.net/pdf/0fccc26b8bb98e9da2d0932820aa42c47e8ab9e0.pdf)  | None  | ICLR 2025 |
 | [TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis](https://openreview.net/forum?id=1CLzLXSFNn)  | None  | ICLR 2025 |
-| [Frequency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning](https://arxiv.org/abs/2412.20790) | [Code](https://github.com/USTBInnovationPark/Frequency-masked-Embedding-Inference) | AAAI 2025 |
 | [Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation](https://arxiv.org/abs/2501.04970) | [Code](https://github.com/kimanki/TAFAS) | AAAI 2025 |
 | [CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning](https://arxiv.org/pdf/2403.07300) | [Code](https://github.com/Hank0626/CALF) | AAAI 2025 |
 | [Revisiting Attention for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2407.13806) | [Code](https://github.com/Joeland4/FSatten-SOatten) | AAAI 2025 |
@@ -226,7 +225,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Learning Disentangled Representation for Multi-Modal Time-Series Sensing Signals](https://openreview.net/forum?id=trPIg0ECvv#discussion) | None | WWW 2025 |
 | [On the Identification of Temporal Causal Representation with Instantaneous Dependence](https://openreview.net/forum?id=2efNHgYRvM) | [Code](https://openreview.net/forum?id=2efNHgYRvM) | ICLR 2025 |
 | [Shedding Light on Time Series Classification using Interpretability Gated Networks](https://openreview.net/pdf?id=n34taxF0TC) | None | ICLR 2025 |
-| [requency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning](https://arxiv.org/pdf/2412.20790) | [Code](https://github.com/USTBInnovationPark/Frequency-masked-Embedding-Inference) | AAAI 2025|
+| [Frequency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning](https://arxiv.org/abs/2412.20790) | [Code](https://github.com/USTBInnovationPark/Frequency-masked-Embedding-Inference) | AAAI 2025 |
 | [Cross-Domain Pre-training with Language Models for Transferable Time Series Representations](https://arxiv.org/abs/2403.12372) | [Code](https://github.com/anhduy0911/CoInception) | WSDM 2024|
 | [Improving Time Series Encoding with Noise-Aware Self-Supervised Learning and an Efficient Encoder](https://arxiv.org/abs/2306.06579) | [Code](https://github.com/anhduy0911/CoInception) | ICDM 2024|
 | [A Shapelet-based Framework for Unsupervised Multivariate Time Series Representation Learning](https://www.vldb.org/pvldb/vol17/p386-wang.pdf) | [Code](https://github.com/real2fish/CSL) | VLDB 2024|
