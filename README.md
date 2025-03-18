@@ -66,26 +66,29 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery](https://openreview.net/forum?id=k38Th3x4d9)  | None  | ICLR 2025 |
 | [Label Correlation Biases Direct Time Series Forecast](https://openreview.net/pdf/0fccc26b8bb98e9da2d0932820aa42c47e8ab9e0.pdf)  | None  | ICLR 2025 |
 | [TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis](https://openreview.net/forum?id=1CLzLXSFNn)  | None  | ICLR 2025 |
-| [WaveletMixer: A Multi-resolution Wavelets Based MLP-Mixer For Multivariate Long-term Time Series Forecasting](https://pure.qub.ac.uk/en/publications/waveletmixer-a-multi-resolution-wavelets-based-mlp-mixer-for-mult) | None | AAAI2025 |
-| [HDT: Hierarchical Discrete Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.08302) | None | AAAI 2025 |
+| [Frequency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning](https://arxiv.org/abs/2412.20790) | [Code](https://github.com/USTBInnovationPark/Frequency-masked-Embedding-Inference) | AAAI 2025 |
 | [Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation](https://arxiv.org/abs/2501.04970) | [Code](https://github.com/kimanki/TAFAS) | AAAI 2025 |
-| [CSformer: Combining Channel Independence and Mixing for Robust Multivariate Time Series Forecasting](https://arxiv.org/abs/2312.06220)  | None  | AAAI 2025 |
 | [CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning](https://arxiv.org/pdf/2403.07300) | [Code](https://github.com/Hank0626/CALF) | AAAI 2025 |
 | [Revisiting Attention for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2407.13806) | [Code](https://github.com/Joeland4/FSatten-SOatten) | AAAI 2025 |
 | [Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation](https://arxiv.org/pdf/2501.04970) | [Code](https://github.com/kimanki/TAFAS) | AAAI 2025 |
-| [Unlocking the Power of LSTM for Long Term Time Series Forecasting](https://arxiv.org/abs/2408.10006) | None | AAAI 2025 |
 | [Unlocking the Power of Patch: Patch-Based MLP for Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.13575) | [Code](https://github.com/TangPeiwang/PatchMLP) | AAAI 2025 |
 | [Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting](https://arxiv.org/pdf/2406.03751) | [Code](https://github.com/TROUBADOUR000/AMD) | AAAI 2025 |
 | [Neural Conformal Control for Time Series Forecasting](https://arxiv.org/pdf/2412.18144) | [Code](https://github.com/complex-ai-lab/ncc) | AAAI 2025 |
 | [TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment](https://arxiv.org/pdf/2406.01638) | [Code](https://github.com/ChenxiLiu-HNU/TimeCMA) | AAAI 2025 |
 | [Hierarchical Classification Auxiliary Network for Time Series Forecasting](https://arxiv.org/pdf/2405.18975) | [Code](https://github.com/syrGitHub/HCAN) | AAAI 2025 |
-| [Apollo-Forecast: Overcoming Aliasing and Inference Speed Challenges in Language Models for Time Series Forecasting	](https://arxiv.org/pdf/2412.12226) | None | AAAI 2025 |
-| [Sequence Complementor: Complementing Transformers For Time Series Forecasting with Learnable Sequences](https://arxiv.org/pdf/2501.02735) | None | AAAI 2025 |
 | [Auto-Regressive Moving Diffusion Models for Time Series Forecasting](https://arxiv.org/abs/2412.09328) | [Code](https://github.com/daxin007/ARMD) | AAAI 2025 |
 | [xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition](https://arxiv.org/abs/2412.17323) | [Code](https://github.com/stitsyuk/xpatch) | AAAI 2025 |
 | [WPMixer: Efficient Multi-Resolution Mixing for Long-Term Time Series Forecasting](https://arxiv.org/abs/2412.17176) | [Code](https://github.com/Secure-and-Intelligent-Systems-Lab/WPMixer) | AAAI 2025 |
 | [Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine](https://arxiv.org/abs/2412.14435) | [Code](https://github.com/luisroque/bench) | AAAI 2025 |
 | [TimePFN: Effective Multivariate Time Series Forecasting with Synthetic Data](https://openreview.net/forum?id=A9iqHtj3dk) | None | AAAI 2025 |
+| [WaveletMixer: A Multi-resolution Wavelets Based MLP-Mixer For Multivariate Long-term Time Series Forecasting](https://pure.qub.ac.uk/en/publications/waveletmixer-a-multi-resolution-wavelets-based-mlp-mixer-for-mult) | None | AAAI2025 |
+| [HDT: Hierarchical Discrete Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.08302) | None | AAAI 2025 |
+| [Apollo-Forecast: Overcoming Aliasing and Inference Speed Challenges in Language Models for Time Series Forecasting	](https://arxiv.org/pdf/2412.12226) | None | AAAI 2025 |
+| [Sequence Complementor: Complementing Transformers For Time Series Forecasting with Learnable Sequences](https://arxiv.org/pdf/2501.02735) | None | AAAI 2025 |
+| [Unlocking the Power of LSTM for Long Term Time Series Forecasting](https://arxiv.org/abs/2408.10006) | None | AAAI 2025 |
+| [CSformer: Combining Channel Independence and Mixing for Robust Multivariate Time Series Forecasting](https://arxiv.org/abs/2312.06220)  | None  | AAAI 2025 |
+| [VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](https://arxiv.org/abs/2501.14183) | None | AAAI 2025 |
+| [Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting](https://arxiv.org/abs/2501.17216) | None | AAAI 2025 |
 | [Multiple Time Series Forecasting with Dynamic Graph Modeling](https://www.vldb.org/pvldb/vol17/p753-zhao.pdf) | [Code](https://github.com/zhkai/MTSF-DG) | VLDB 2024|
 | [TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](https://www.vldb.org/pvldb/vol17/p2363-hu.pdf) | [Code](https://github.com/decisionintelligence/TFB) | VLDB 2024|
 | [Weakly Guided Adaptation for Robust Time Series Forecasting](https://www.vldb.org/pvldb/vol17/p766-cheng.pdf) | [Code](https://github.com/YunyaoCheng/DARF) | VLDB 2024|
