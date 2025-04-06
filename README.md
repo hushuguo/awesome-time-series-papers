@@ -7,6 +7,8 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+🚩 2025/4/6: **Add Some Significant Papers are marked with a 💛**
+
 🚩 2025/4/3: **Some of the recommended papers are marked with a ⭐. Feel free to suggest notable works in the issues or submit a pull request!**
 
 🚩 2025/2/28: **Add WWW 2025 Papers**
@@ -30,7 +32,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Cateloge
 <div align="center">
 
-  [Time Series Forecasting](#time-series-forecasting)  
+  [Time Series Forecasting](#time-series-forecasting) ([Some Significant Papers](#some-significant-papers))
   
   [Time Series Anomaly Detection](#time-series-anomaly-detection)
 
@@ -175,6 +177,17 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/download/6032/5888) | [Code](https://github.com/huawei-noah/BHT-ARIMA) | AAAI 2020 |
 | [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf) | None | NeurIPS 2020 |
 | [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://arxiv.org/pdf/2010.13924) | [Code](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark) | NeurIPS 2020 |
+
+### Some Significant Papers
+| Method Name | Code | Source |
+| ------- | ------ | ------ |
+| [Timemixer: Decomposable multiscale mixing for time series forecasting💛](https://arxiv.org/pdf/2405.14616) | [Code](https://github.com/kwuking/TimeMixer) | ICLR 2024 |
+|[iTransformer: Inverted transformers are effective for time series forecasting💛](https://arxiv.org/abs/2310.06625)|[Code](https://github.com/thuml/Time-Series-Library) | ICLR 2024 |
+|[A Time Series is Worth 64 Words: Long-term Forecasting with Transformers💛](https://arxiv.org/abs/2211.14730)|[Code](https://github.com/PatchTST/PatchTST) | ICLR 2023 |
+|[Crossformer: Transformer utilizing cross-dimension dependency for multivariate time series forecasting💛](https://openreview.net/pdf?id=vSVLM2j9eie)|[Code](https://github.com/Thinklab-SJTU/Crossformer) | ICLR 2023 |
+|[Long-term forecasting with tide: Time-series dense encoder💛](https://arxiv.org/abs/2304.08424)|[Code](https://github.com/Thinklab-SJTU/Crossformer) | TMLR 2023 |
+|[TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis💛](https://arxiv.org/abs/2210.02186) | [Code](https://github.com/thuml/TimesNet) | ICLR 2023 |
+|[Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting💛](https://arxiv.org/abs/2106.13008) | [Code](https://github.com/thuml/Autoformer) | NeurIPS 2021 |
 
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
