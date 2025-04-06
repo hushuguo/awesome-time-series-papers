@@ -36,7 +36,7 @@ This repository is a comprehensive collection of recent research papers and reso
   
   [Time Series Anomaly Detection](#time-series-anomaly-detection)
 
-  [Time Series Early Classification](#time-series-early-classification)
+  [Time Series Early Classification](#time-series-early-classification) ([Some Significant Papers](#time-series-early-classification))
 
   [Irregular Time Series Learning](#irregular-time-series-learning)
 
@@ -218,9 +218,9 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Early Classification
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
-| [Second-order Confidence Network for Early Classification of Time Series](https://dl.acm.org/doi/10.1145/3631531) | None | TIST 2023 |
+| [Second-order Confidence Network for Early Classification of Time Series💛](https://dl.acm.org/doi/10.1145/3631531) | None | TIST 2023 |
 | [CALIMERA: : A new early time series classification method](https://dl.acm.org/doi/10.1016/j.ipm.2023.103465) | [Code](https://github.com/JakubBilski/CALIMERA) | IPM 2023 |
-| [TEASER: Early and Accurate Time Series Classification](https://arxiv.org/abs/1908.03405) | [Code](https://github.com/patrickzib/SFA) | DMKD 2020|
+| [TEASER: Early and Accurate Time Series Classification💛](https://arxiv.org/abs/1908.03405) | [Code](https://github.com/patrickzib/SFA) | DMKD 2020|
 | [An Effective Confidence-Based Early Classification of Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8765556) | [Code](https://github.com/junweilvhfut/ECEC) | Access 2019|
 
 ## Irregular Time Series Learning
