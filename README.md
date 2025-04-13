@@ -7,9 +7,11 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+**Feel free to suggest notable works in the issues or submit a pull request!**
+
 🚩 2025/4/6: **Add Some Significant Papers are marked with a 💛**
 
-🚩 2025/4/3: **Some of the recommended papers are marked with a ⭐. Feel free to suggest notable works in the issues or submit a pull request!**
+🚩 2025/4/3: **Some of the recommended papers are marked with a ⭐**
 
 🚩 2025/2/28: **Add WWW 2025 Papers**
 
