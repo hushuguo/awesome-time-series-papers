@@ -32,9 +32,9 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Cateloge
 <div align="center">
 
-  [Time Series Forecasting](#time-series-forecasting) ([Some Significant Papers](#some-significant-papers))
+  [Time Series Forecasting](#time-series-forecasting) ([Some Significant Papers](#some-significant-papers💛))
   
-  [Time Series Anomaly Detection](#time-series-anomaly-detection)
+  [Time Series Anomaly Detection](#time-series-anomaly-detection)([Some Significant Papers](#time-series-anomaly-detection))
 
   [Time Series Early Classification](#time-series-early-classification) ([Some Significant Papers](#time-series-early-classification))
 
@@ -64,11 +64,11 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Investigating Pattern Neurons in Urban Time Series Forecasting](https://openreview.net/forum?id=a9vey6B54y) | [Code](https://anonymous.4open.science/r/PN-Train) | ICLR 2025 |
 | [TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting](https://openreview.net/pdf?id=wTLc79YNbh) | [Code](https://github.com/huangst21/TimeKAN) | ICLR 2025 |
 | [A Simple Baseline for Multivariate Time Series Forecasting](https://openreview.net/pdf?id=oANkBaVci5) | [Code](https://openreview.net/forum?id=oANkBaVci5) | ICLR 2025 |
-| [Timer-XL: Long-Context Transformers for Unified Time Series Forecasting](https://openreview.net/forum?id=KMCJXjlDDr)⭐ | [Code](https://github.com/thuml/OpenLTM) | ICLR 2025 |
+| [Timer-XL: Long-Context Transformers for Unified Time Series Forecasting⭐](https://openreview.net/forum?id=KMCJXjlDDr) | [Code](https://github.com/thuml/OpenLTM) | ICLR 2025 |
 | [In-context Time Series Predictor](https://openreview.net/forum?id=dCcY2pyNIO) | None | ICLR 2025 |
 | [Fast and Slow Streams for Online Time Series Forecasting Without Information Leakage](https://openreview.net/forum?id=I0n3EyogMi) | None | ICLR 2025 |
 | [Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery](https://openreview.net/forum?id=k38Th3x4d9)  | None  | ICLR 2025 |
-| [Label Correlation Biases Direct Time Series Forecast](https://openreview.net/pdf/0fccc26b8bb98e9da2d0932820aa42c47e8ab9e0.pdf)⭐  | None  | ICLR 2025 |
+| [Label Correlation Biases Direct Time Series Forecast⭐](https://openreview.net/pdf/0fccc26b8bb98e9da2d0932820aa42c47e8ab9e0.pdf)  | None  | ICLR 2025 |
 | [TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis](https://openreview.net/forum?id=1CLzLXSFNn)  | None  | ICLR 2025 |
 | [Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation](https://arxiv.org/abs/2501.04970) | [Code](https://github.com/kimanki/TAFAS) | AAAI 2025 |
 | [CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning](https://arxiv.org/pdf/2403.07300) | [Code](https://github.com/Hank0626/CALF) | AAAI 2025 |
@@ -81,8 +81,8 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Hierarchical Classification Auxiliary Network for Time Series Forecasting](https://arxiv.org/pdf/2405.18975) | [Code](https://github.com/syrGitHub/HCAN) | AAAI 2025 |
 | [Auto-Regressive Moving Diffusion Models for Time Series Forecasting](https://arxiv.org/abs/2412.09328) | [Code](https://github.com/daxin007/ARMD) | AAAI 2025 |
 | [xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition](https://arxiv.org/abs/2412.17323) | [Code](https://github.com/stitsyuk/xpatch) | AAAI 2025 |
-| [WPMixer: Efficient Multi-Resolution Mixing for Long-Term Time Series Forecasting](https://arxiv.org/abs/2412.17176)⭐ | [Code](https://github.com/Secure-and-Intelligent-Systems-Lab/WPMixer) | AAAI 2025 |
-| [Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine](https://arxiv.org/abs/2412.14435)⭐ | [Code](https://github.com/luisroque/bench) | AAAI 2025 |
+| [WPMixer: Efficient Multi-Resolution Mixing for Long-Term Time Series Forecasting⭐](https://arxiv.org/abs/2412.17176) | [Code](https://github.com/Secure-and-Intelligent-Systems-Lab/WPMixer) | AAAI 2025 |
+| [Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine⭐](https://arxiv.org/abs/2412.14435) | [Code](https://github.com/luisroque/bench) | AAAI 2025 |
 | [TimePFN: Effective Multivariate Time Series Forecasting with Synthetic Data](https://openreview.net/forum?id=A9iqHtj3dk) | None | AAAI 2025 |
 | [WaveletMixer: A Multi-resolution Wavelets Based MLP-Mixer For Multivariate Long-term Time Series Forecasting](https://pure.qub.ac.uk/en/publications/waveletmixer-a-multi-resolution-wavelets-based-mlp-mixer-for-mult) | None | AAAI2025 |
 | [HDT: Hierarchical Discrete Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.08302) | None | AAAI 2025 |
@@ -93,7 +93,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](https://arxiv.org/abs/2501.14183) | None | AAAI 2025 |
 | [Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting](https://arxiv.org/abs/2501.17216) | None | AAAI 2025 |
 | [Multiple Time Series Forecasting with Dynamic Graph Modeling](https://www.vldb.org/pvldb/vol17/p753-zhao.pdf) | [Code](https://github.com/zhkai/MTSF-DG) | VLDB 2024|
-| [TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](https://www.vldb.org/pvldb/vol17/p2363-hu.pdf)⭐ | [Code](https://github.com/decisionintelligence/TFB) | VLDB 2024|
+| [TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods⭐](https://www.vldb.org/pvldb/vol17/p2363-hu.pdf) | [Code](https://github.com/decisionintelligence/TFB) | VLDB 2024|
 | [Weakly Guided Adaptation for Robust Time Series Forecasting](https://www.vldb.org/pvldb/vol17/p766-cheng.pdf) | [Code](https://github.com/YunyaoCheng/DARF) | VLDB 2024|
 | [Retrieval-Augmented Diffusion Models for Time Series Forecasting](https://arxiv.org/abs/2410.18712) | [Code](https://github.com/AdityaLab/FOIL) | NeurIPS 2024|
 | [Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective](https://arxiv.org/abs/2402.11463) | None | NeurIPS 2024|
@@ -119,7 +119,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/abs/2402.02592) | [Code](https://github.com/SalesforceAIResearch/uni2ts) | ICML 2024|
 | [Transformers with Loss Shaping Constraints for Long-Term Time Series Forecasting](https://arxiv.org/pdf/2402.09373) | None | ICML 2024|
 | [Deep Functional Factor Models: Forecasting High-Dimensional Functional Time Series via Bayesian Nonparametric Factorization](https://arxiv.org/abs//2403.14587) | [Code](https://github.com/yiruiliu110/df2m) | ICML 2024|
-| [An Analysis of Linear Time Series Forecasting Models](https://arxiv.org/abs//2403.14587)⭐ | [Code](https://github.com/VEWOXIC/FITS/) | ICML 2024|
+| [An Analysis of Linear Time Series Forecasting Models⭐](https://arxiv.org/abs//2403.14587) | [Code](https://github.com/VEWOXIC/FITS/) | ICML 2024|
 | [SAMformer: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention](https://arxiv.org/pdf/2402.10198) | [Code](https://github.com/romilbert/samformer) | ICML 2024|
 | [Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting](https://arxiv.org/abs/2405.10800) | [Code](https://github.com/XDZhelheim/HimNet) | KDD 2024|
 | [STEMO: Early Spatio-temporal Forecasting with Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2406.04035) | [Code](https://github.com/coco0106/MO-STEP) | KDD 2024|
@@ -134,7 +134,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://openreview.net/forum?id=lJkOCMP2aW) | [Code](https://github.com/decisionintelligence/pathformer) | ICLR 2024 |
 | [GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings](https://openreview.net/forum?id=c56TWtYp0W) | None | ICLR 2024 |
 | [Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting](https://openreview.net/forum?id=qae04YACHs) | None | ICLR 2024 |
-| [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://openreview.net/forum?id=JePfAI8fah)⭐ | [Code](https://github.com/thuml/iTransformer?utm_source=catalyzex.com) | ICLR 2024 |
+| [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting⭐](https://openreview.net/forum?id=JePfAI8fah) | [Code](https://github.com/thuml/iTransformer?utm_source=catalyzex.com) | ICLR 2024 |
 | [TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting](https://openreview.net/pdf?id=7oLshfEIC2) | [Code](https://github.com/kwuking/TimeMixer) | ICLR 2024 |
 | [Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting](#) | None | AAAI 2024 |
 | [Latent Diffusion Transformer for Probabilistic Time Series Forecasting](#) | None | AAAI 2024 |
@@ -144,10 +144,10 @@ This repository is a comprehensive collection of recent research papers and reso
 | Method Name | Code | Source |
 | ------- | ------ | -------- |
 | [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://openreview.net/pdf?id=zt53IDUR1U) | [Code](https://github.com/wanghq21/MICN) | ICLR 2023 |
-| [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting](https://openreview.net/pdf?id=vSVLM2j9eie)⭐ | [Code](https://github.com/Thinklab-SJTU/Crossformer) | ICLR 2023 |
+| [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting⭐](https://openreview.net/pdf?id=vSVLM2j9eie) | [Code](https://github.com/Thinklab-SJTU/Crossformer) | ICLR 2023 |
 | [Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://openreview.net/pdf?id=sCrnllCtjoE) | [Code](https://github.com/BorealisAI/scaleformer) | ICLR 2023 |
 | [SAITS: Self-Attention-based Imputation for Time Series](https://arxiv.org/abs/2202.08516) | [Code](https://github.com/WenjieDu/SAITS/) | Expert Systems with Applications |
-| [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](http://arxiv.org/abs/2211.14730)⭐ | [Code](https://github.com/yuqinie98/PatchTST) | ICLR 2023 |
+| [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers⭐](http://arxiv.org/abs/2211.14730) | [Code](https://github.com/yuqinie98/PatchTST) | ICLR 2023 |
 
 ### 2022
 
@@ -178,39 +178,41 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf) | None | NeurIPS 2020 |
 | [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://arxiv.org/pdf/2010.13924) | [Code](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark) | NeurIPS 2020 |
 
-### Some Significant Papers
+
+### Some Significant Papers💛
+
 | Method Name | Code | Source |
 | ------- | ------ | ------ |
-| [Timemixer: Decomposable multiscale mixing for time series forecasting💛](https://arxiv.org/pdf/2405.14616) | [Code](https://github.com/kwuking/TimeMixer) | ICLR 2024 |
-|[iTransformer: Inverted transformers are effective for time series forecasting💛](https://arxiv.org/abs/2310.06625)|[Code](https://github.com/thuml/Time-Series-Library) | ICLR 2024 |
-|[A Time Series is Worth 64 Words: Long-term Forecasting with Transformers💛](https://arxiv.org/abs/2211.14730)|[Code](https://github.com/PatchTST/PatchTST) | ICLR 2023 |
-|[Crossformer: Transformer utilizing cross-dimension dependency for multivariate time series forecasting💛](https://openreview.net/pdf?id=vSVLM2j9eie)|[Code](https://github.com/Thinklab-SJTU/Crossformer) | ICLR 2023 |
-|[Long-term forecasting with tide: Time-series dense encoder💛](https://arxiv.org/abs/2304.08424)|[Code](https://github.com/Thinklab-SJTU/Crossformer) | TMLR 2023 |
-|[TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis💛](https://arxiv.org/abs/2210.02186) | [Code](https://github.com/thuml/TimesNet) | ICLR 2023 |
-|[Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting💛](https://arxiv.org/abs/2106.13008) | [Code](https://github.com/thuml/Autoformer) | NeurIPS 2021 |
+| **[TimeMixer](https://arxiv.org/pdf/2405.14616)** 💛 | [Code](https://github.com/kwuking/TimeMixer) | ICLR 2024 |
+| **[iTransformer](https://arxiv.org/abs/2310.06625)** 💛 | [Code](https://github.com/thuml/Time-Series-Library) | ICLR 2024 |
+| **[PatchTST](https://arxiv.org/abs/2211.14730)** 💛 | [Code](https://github.com/PatchTST/PatchTST) | ICLR 2023 |
+| **[Crossformer](https://openreview.net/pdf?id=vSVLM2j9eie)** 💛 | [Code](https://github.com/Thinklab-SJTU/Crossformer) | ICLR 2023 |
+| **[TimesNet](https://arxiv.org/abs/2210.02186)** 💛 | [Code](https://github.com/thuml/TimesNet) | ICLR 2023 |
+| **[Autoformer](https://arxiv.org/abs/2106.13008)** 💛 | [Code](https://github.com/thuml/Autoformer) | NeurIPS 2021 |
+
 
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
 | [Learn hybrid prototypes for multivariate time series anomaly detection](https://openreview.net/forum?id=8TBGdH3t6a) | None | ICLR 2025 |
-| [Can LLMs Understand Time Series Anomalies?](https://openreview.net/forum?id=LGafQ1g2D2) | [Code](https://openreview.net/forum?id=LGafQ1g2D2) | ICLR 2025 |
-| [CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching](https://openreview.net/pdf?id=m08aK3xxdJ) | [Code](https://anonymous.4open.science/r/CATCH-E535/README.md) | ICLR 2025 |
+| [Can LLMs Understand Time Series Anomalies?⭐](https://openreview.net/forum?id=LGafQ1g2D2) | [Code](https://openreview.net/forum?id=LGafQ1g2D2) | ICLR 2025 |
+| [CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching⭐](https://openreview.net/pdf?id=m08aK3xxdJ) | [Code](https://anonymous.4open.science/r/CATCH-E535/README.md) | ICLR 2025 |
 | [Multi-Resolution Decomposable Diffusion Model for Non-Stationary Time Series Anomaly Detection](https://openreview.net/pdf?id=eWocmTQn7H) | [Code](https://openreview.net/forum?id=eWocmTQn7H) | ICLR 2025 |
 | [ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection](https://www.vldb.org/pvldb/vol17/p359-zhang.pdf) | [Code](https://github.com/17000cyh/IMDiffusion) | VLDB 2024|
-| [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) | [Code](https://github.com/zaqthss/experiment-tsad) | VLDB 2024|
+| [An Experimental Evaluation of Anomaly Detection in Time Series⭐](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) | [Code](https://github.com/zaqthss/experiment-tsad) | VLDB 2024|
 | [AutoTSAD: Unsupervised Holistic Anomaly Detection for Time Series Data](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) | [Code](https://github.com/zaqthss/experiment-tsad) | VLDB 2024|
-| [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series](https://arxiv.org/abs/2401.03955) | [Code](https://github.com/ibm-granite/granite-tsfm/tree/main/tsfm_public/models/tinytimemixer) | NeurIPS 2024|
+| [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series⭐](https://arxiv.org/abs/2401.03955) | [Code](https://github.com/ibm-granite/granite-tsfm/tree/main/tsfm_public/models/tinytimemixer) | NeurIPS 2024|
 | [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://dl.acm.org/doi/10.1145/3637528.3671680) | None | KDD 2024|
 | [LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | None | WWW 2024 |
 | [Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection](https://arxiv.org/abs/2405.06419) | [Code](https://dl.acm.org/doi/10.1145/3589334.3645556) | WWW 2024 |
 | [Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective](https://arxiv.org/pdf/2402.02820) | [Code](https://github.com/CSTCloudOps/FCVAE)| WWW 2024 |
 | [MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection](https://openreview.net/forum?id=UFW67uduJd) | None | NeurIPS 2023 |
 | [CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences](https://dl.acm.org/doi/abs/10.1145/3534678.3539155) | [Code](https://github.com/mmichaelzhang/CAT) | KDD 2022 |
-| [DCT-GAN: Dilated Convolutional Transformer-based GAN for Time Series Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/9626552) | None | TKDE 2022 |
+| [DCT-GAN: Dilated Convolutional Transformer-based GAN for Time Series Anomaly Detection💛](https://ieeexplore.ieee.org/abstract/document/9626552) | None | TKDE 2022 |
 | [Concept Drift Adaptation for Time Series Anomaly Detection via Transformer](https://link.springer.com/article/10.1007/s11063-022-11015-0) | None | Neural Processing Letters 2022 |
-| [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642) | [Code](https://github.com/thuml/Anomaly-Transformer) | ICLR 2022 |
-| [TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](https://arxiv.org/abs/2201.07284) | [Code](https://github.com/imperial-qore/tranad) | VLDB 2022 |
-| [Learning graph structures with transformer for multivariate time series anomaly detection in IoT](https://arxiv.org/abs/2104.03466) | [Code](https://github.com/ZEKAICHEN/GTA) | IEEE Internet of Things Journal 2021 |
+| [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy💛](https://arxiv.org/abs/2110.02642) | [Code](https://github.com/thuml/Anomaly-Transformer) | ICLR 2022 |
+| [TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data💛](https://arxiv.org/abs/2201.07284) | [Code](https://github.com/imperial-qore/tranad) | VLDB 2022 |
+| [Learning graph structures with transformer for multivariate time series anomaly detection in IoT💛](https://arxiv.org/abs/2104.03466) | [Code](https://github.com/ZEKAICHEN/GTA) | IEEE Internet of Things Journal 2021 |
 | [Spacecraft Anomaly Detection via Transformer Reconstruction Error](http://www.utias.utoronto.ca/wp-content/uploads/2019/07/88-Spacecraft-anomaly-detection-via-transformer-reconstruction-error.pdf) | None | ICASSE 2019 |
 | [Unsupervised Anomaly Detection in Multivariate Time Series through Transformer-based Variational Autoencoder](https://ieeexplore.ieee.org/abstract/document/9601669) | None | CCDC 2021 |
 | [Variational Transformer-based anomaly detection approach for multivariate time series](https://www.sciencedirect.com/science/article/abs/pii/S0263224122000914) | None | Measurement 2022 |
