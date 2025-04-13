@@ -32,7 +32,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Cateloge
 <div align="center">
 
-  [Time Series Forecasting](#time-series-forecasting) ([Some Significant Papers](#some-significant-papers💛))
+  [Time Series Forecasting](#time-series-forecasting) ([Some Significant Papers](#time-series-forecasting))
   
   [Time Series Anomaly Detection](#time-series-anomaly-detection)([Some Significant Papers](#time-series-anomaly-detection))
 
@@ -113,7 +113,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning](https://arxiv.org/abs/2406.09130) | [Code](https://github.com/AdityaLab/FOIL) | ICML 2024|
 | [Learning Optimal Projection for Forecast Reconciliation of Hierarchical Time Series](https://openreview.net/pdf?id=55HfvJ6lDB) | None | ICML 2024|
 | [SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters](https://arxiv.org/abs/2405.00946) | [Code](https://github.com/lss-1138/SparseTSF) | ICML 2024|
-| [A decoder-only foundation model for time-series forecasting](https://arxiv.org/pdf/2310.10688) | [Code](https://github.com/google-research/timesfm) | ICML 2024|
+| [A decoder-only foundation model for time-series forecasting💛⭐](https://arxiv.org/pdf/2310.10688) | [Code](https://github.com/google-research/timesfm) | ICML 2024|
 | [SIN: Selective and Interpretable Normalization for Long-Term Time Series Forecasting](https://icml.cc/virtual/2024/poster/33594) | None | ICML 2024|
 | [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/pdf/2403.01673) | [Code](https://github.com/LJC-FVNR/CATS) | ICML 2024|
 | [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/abs/2402.02592) | [Code](https://github.com/SalesforceAIResearch/uni2ts) | ICML 2024|
@@ -134,8 +134,8 @@ This repository is a comprehensive collection of recent research papers and reso
 | [Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://openreview.net/forum?id=lJkOCMP2aW) | [Code](https://github.com/decisionintelligence/pathformer) | ICLR 2024 |
 | [GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings](https://openreview.net/forum?id=c56TWtYp0W) | None | ICLR 2024 |
 | [Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting](https://openreview.net/forum?id=qae04YACHs) | None | ICLR 2024 |
-| [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting⭐](https://openreview.net/forum?id=JePfAI8fah) | [Code](https://github.com/thuml/iTransformer?utm_source=catalyzex.com) | ICLR 2024 |
-| [TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting](https://openreview.net/pdf?id=7oLshfEIC2) | [Code](https://github.com/kwuking/TimeMixer) | ICLR 2024 |
+| [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting💛](https://openreview.net/forum?id=JePfAI8fah) | [Code](https://github.com/thuml/iTransformer?utm_source=catalyzex.com) | ICLR 2024 |
+| [TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting💛](https://openreview.net/pdf?id=7oLshfEIC2) | [Code](https://github.com/kwuking/TimeMixer) | ICLR 2024 |
 | [Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting](#) | None | AAAI 2024 |
 | [Latent Diffusion Transformer for Probabilistic Time Series Forecasting](#) | None | AAAI 2024 |
 
@@ -143,11 +143,12 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | -------- |
+| [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis💛](https://arxiv.org/abs/2210.02186) | [Code](https://github.com/thuml/TimesNet) | ICLR 2023 |
 | [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://openreview.net/pdf?id=zt53IDUR1U) | [Code](https://github.com/wanghq21/MICN) | ICLR 2023 |
-| [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting⭐](https://openreview.net/pdf?id=vSVLM2j9eie) | [Code](https://github.com/Thinklab-SJTU/Crossformer) | ICLR 2023 |
+| [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting💛](https://openreview.net/pdf?id=vSVLM2j9eie) | [Code](https://github.com/Thinklab-SJTU/Crossformer) | ICLR 2023 |
 | [Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://openreview.net/pdf?id=sCrnllCtjoE) | [Code](https://github.com/BorealisAI/scaleformer) | ICLR 2023 |
 | [SAITS: Self-Attention-based Imputation for Time Series](https://arxiv.org/abs/2202.08516) | [Code](https://github.com/WenjieDu/SAITS/) | Expert Systems with Applications |
-| [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers⭐](http://arxiv.org/abs/2211.14730) | [Code](https://github.com/yuqinie98/PatchTST) | ICLR 2023 |
+| [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers💛](http://arxiv.org/abs/2211.14730) | [Code](https://github.com/yuqinie98/PatchTST) | ICLR 2023 |
 
 ### 2022
 
@@ -165,7 +166,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | Method Name | Code | Source |
 | ------- | ------ | ------ |
 | [Probabilistic Transformer For Time Series Analysis](https://openreview.net/forum?id=HfpNVDg3ExA) | [Code](https://github.com/user/repo) | NeurIPS 2021 |
-| [Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting](https://papers.nips.cc/paper/2021/file/bcc0d400288793e8bdcd7c19a8ac0c2b-Paper.pdf) | [Code](https://github.com/user/repo) | NeurIPS 2021 |
+| [Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting💛](https://papers.nips.cc/paper/2021/file/bcc0d400288793e8bdcd7c19a8ac0c2b-Paper.pdf) | [Code](https://github.com/user/repo) | NeurIPS 2021 |
 | [Whittle Networks: A Deep Likelihood Model for Time Series](https://www.ml.informatik.tu-darmstadt.de/papers/yu2021icml_wspn.pdf) | [Code](https://github.com/ml-research/WhittleNetworks) | ICML 2021 |
 | [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://arxiv.org/abs/2105.04100) | [Code](https://github.com/Z-GCNETs/Z-GCNETs) | ICML 2021 |
 | [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436) | [Code](https://github.com/zhouhaoyi/Informer2020) | AAAI 2021 |
@@ -176,8 +177,8 @@ This repository is a comprehensive collection of recent research papers and reso
 | ------- | ------ | ------ |
 | [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/download/6032/5888) | [Code](https://github.com/huawei-noah/BHT-ARIMA) | AAAI 2020 |
 | [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf) | None | NeurIPS 2020 |
-| [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://arxiv.org/pdf/2010.13924) | [Code](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark) | NeurIPS 2020 | -->
-
+<!-- | [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://arxiv.org/pdf/2010.13924) | [Code](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark) | NeurIPS 2020 | -->
+<!-- 
 
 ### Some Significant Papers💛
 
@@ -188,7 +189,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | **[PatchTST](https://arxiv.org/abs/2211.14730)** 💛 | [Code](https://github.com/PatchTST/PatchTST) | ICLR 2023 |
 | **[Crossformer](https://openreview.net/pdf?id=vSVLM2j9eie)** 💛 | [Code](https://github.com/Thinklab-SJTU/Crossformer) | ICLR 2023 |
 | **[TimesNet](https://arxiv.org/abs/2210.02186)** 💛 | [Code](https://github.com/thuml/TimesNet) | ICLR 2023 |
-| **[Autoformer](https://arxiv.org/abs/2106.13008)** 💛 | [Code](https://github.com/thuml/Autoformer) | NeurIPS 2021 |
+<!-- | **[Autoformer](https://arxiv.org/abs/2106.13008)**  | [Code](https://github.com/thuml/Autoformer) | NeurIPS 2021 | --> 
 
 
 ## Time Series Anomaly Detection
@@ -196,7 +197,7 @@ This repository is a comprehensive collection of recent research papers and reso
 | ------- | ------ | ---------- |
 | [Learn hybrid prototypes for multivariate time series anomaly detection](https://openreview.net/forum?id=8TBGdH3t6a) | None | ICLR 2025 |
 | [Can LLMs Understand Time Series Anomalies?⭐](https://openreview.net/forum?id=LGafQ1g2D2) | [Code](https://openreview.net/forum?id=LGafQ1g2D2) | ICLR 2025 |
-| [CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching⭐](https://openreview.net/pdf?id=m08aK3xxdJ) | [Code](https://anonymous.4open.science/r/CATCH-E535/README.md) | ICLR 2025 |
+| [CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching](https://openreview.net/pdf?id=m08aK3xxdJ) | [Code](https://anonymous.4open.science/r/CATCH-E535/README.md) | ICLR 2025 |
 | [Multi-Resolution Decomposable Diffusion Model for Non-Stationary Time Series Anomaly Detection](https://openreview.net/pdf?id=eWocmTQn7H) | [Code](https://openreview.net/forum?id=eWocmTQn7H) | ICLR 2025 |
 | [ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection](https://www.vldb.org/pvldb/vol17/p359-zhang.pdf) | [Code](https://github.com/17000cyh/IMDiffusion) | VLDB 2024|
 | [An Experimental Evaluation of Anomaly Detection in Time Series⭐](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) | [Code](https://github.com/zaqthss/experiment-tsad) | VLDB 2024|
