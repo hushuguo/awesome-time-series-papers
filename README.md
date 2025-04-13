@@ -3,11 +3,10 @@
 )
 
 
-This repository is a comprehensive collection of recent research papers and resources in the field of time series analysis, spanning a wide range of topics including forecasting, anomaly detection, early classification, irregular time series learning, representation learning, and more.
+This repository is a comprehensive collection of recent research papers and resources in the field of time series analysis, spanning a wide range of topics including forecasting, anomaly detection, early classification, irregular time series learning, representation learning, and more. **Feel free to suggest notable works in the issues or submit a pull request!**
 
 ## Some Additional Information
 
-**Feel free to suggest notable works in the issues or submit a pull request!**
 
 🚩 2025/4/6: **Add Some Significant Papers are marked with a 💛**
 
