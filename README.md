@@ -8,9 +8,9 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Some Additional Information
 
 
-🚩 2025/4/6: **Add Some Significant Papers are marked with a 💛**
+🚩 2025/4/6: **Add Some Significant Papers are marked with a 💛(indicating high citations)**
 
-🚩 2025/4/3: **Some of the recommended papers are marked with a ⭐**
+🚩 2025/4/3: **Add Some of the recommended papers are marked with a ⭐(just my personal reference)**
 
 🚩 2025/2/28: **Add WWW 2025 Papers**
 
