@@ -7,7 +7,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
-<!-- 🚩 2025/5/12: **Add KDD 2025 Papers (Will publish in 20 July 2025)** -->
+🚩 2025/5/12: **Add KDD 2025 Papers**
 
 🚩 2025/4/6: **Add Some Significant Papers are marked with a 💛(indicating high citations)**
 
