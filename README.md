@@ -7,6 +7,7 @@ This repository is a comprehensive collection of recent research papers and reso
 
 ## Some Additional Information
 
+<!-- 🚩 2025/5/12: **Add KDD 2025 Papers (Will publish in 20 July 2025)** -->
 
 🚩 2025/4/6: **Add Some Significant Papers are marked with a 💛(indicating high citations)**
 
@@ -61,6 +62,12 @@ This repository is a comprehensive collection of recent research papers and reso
 
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Multi-period Learning for Financial Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709422) | None | KDD 2025 |
+| [Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709210) | None | KDD 2025 |
+| [ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709254) | None | KDD 2025 |
+| [DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709325) | None | KDD 2025 |
+| [Quantum Time-index Models with Reservoir for Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709228) | None | KDD 2025 |
+| [IN-Flow: Instance Normalization Flow for Non-stationary Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709260) | None | KDD 2025 |
 | [Exploiting Language Power for Time Series Forecasting with Exogenous Variables](https://openreview.net/pdf?id=dFapOK8Rhb) | None | WWW 2025 |
 | [Investigating Pattern Neurons in Urban Time Series Forecasting](https://openreview.net/forum?id=a9vey6B54y) | [Code](https://anonymous.4open.science/r/PN-Train) | ICLR 2025 |
 | [TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting](https://openreview.net/pdf?id=wTLc79YNbh) | [Code](https://github.com/huangst21/TimeKAN) | ICLR 2025 |
@@ -196,6 +203,8 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Anomaly Detection
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels](https://dl.acm.org/doi/10.1145/3690624.3709257) | None | KDD 2025 |
+| [TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection](https://dl.acm.org/doi/10.1145/3690624.3709266) | None | KDD 2025 | 
 | [Learn hybrid prototypes for multivariate time series anomaly detection](https://openreview.net/forum?id=8TBGdH3t6a) | None | ICLR 2025 |
 | [Can LLMs Understand Time Series Anomalies?⭐](https://openreview.net/forum?id=LGafQ1g2D2) | [Code](https://openreview.net/forum?id=LGafQ1g2D2) | ICLR 2025 |
 | [CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching](https://openreview.net/pdf?id=m08aK3xxdJ) | [Code](https://anonymous.4open.science/r/CATCH-E535/README.md) | ICLR 2025 |
@@ -241,6 +250,7 @@ This repository is a comprehensive collection of recent research papers and reso
 ## Time Series Representation Learning
 | Method Name | Code | Source |
 | ------- | ------ | ---------- |
+| [Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation](https://dl.acm.org/doi/10.1145/3690624.3709239) | None | KDD 2025 |
 | [Learning Disentangled Representation for Multi-Modal Time-Series Sensing Signals](https://openreview.net/forum?id=trPIg0ECvv#discussion) | None | WWW 2025 |
 | [On the Identification of Temporal Causal Representation with Instantaneous Dependence](https://openreview.net/forum?id=2efNHgYRvM) | [Code](https://openreview.net/forum?id=2efNHgYRvM) | ICLR 2025 |
 | [Shedding Light on Time Series Classification using Interpretability Gated Networks](https://openreview.net/pdf?id=n34taxF0TC) | None | ICLR 2025 |
